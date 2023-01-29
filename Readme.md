@@ -16,4 +16,4 @@
 
 [Диаграмма для задачи](Digrama.png) 
 
-[Код](FinalTask\Program.cs)
+[Код](FinalTask/Program.cs)
