@@ -14,6 +14,6 @@
 
 ## Решение
 
-[Диаграмма для задачи](Digrama.drawio.png) 
+[Диаграмма для задачи](Digrama.png) 
 
 [Код](FinalTask\Program.cs)
